@@ -1,0 +1,214 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header-container {
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.10);
+    margin-bottom: 150px;
+}
+
+.header-title {
+    color: #272727;
+
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    width: 400px;
+}
+
+.header-content {
+    max-width: 530px;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.header-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+}
+
+.header-pic {
+    width: 450px;
+    padding-right: 100px;
+    padding-top: 50px;
+}
+
+ a {
+    text-decoration: none;
+    color: white;
+}
+
+.btn-primary {
+    padding: 10px 20px;
+
+    background-color: #E55473;
+    border-radius: 5px;
+    border: 0;
+}
+
+.section-title {
+    text-align: center;
+}
+
+.section-description {
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    margin-bottom: 30px;
+
+}
+
+.section-flower {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.flower-container {
+    width: 270px;
+    height: 320px;
+    
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 130px 130px 0px 0px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+.Flower{
+    width: 150px;
+    padding-left: 22%;
+    padding-top: 41%;
+}
+#yellow-flower{
+    padding-top: 35%;
+    
+
+}
+.mid-flower{
+    background-color:  rgba(5, 151, 160, 0.15);
+}
+.last-flower{
+    background-color: rgba(71, 125, 17, 0.15);;
+}
+.flower-name{
+    text-align: center;
+    text-decoration-line: underline;
+}
+.customar-service{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    background-color: rgba(39, 39, 39, 0.05);
+    margin-bottom: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+.customar-service-content{
+    text-align: center;
+    
+    
+}
+.customar-service-component{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.service-description{
+    text-align: center;
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 15px;
+    
+}
+.discount-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+    background-color:  rgba(229, 84, 115, 0.05);
+    padding-top: 80px;
+    padding-bottom: 60px;
+    margin-bottom: 100px;
+    
+}
+.discount-content{
+    padding-left: 200px;
+    max-width: 500px;
+   
+}
+.discount-title{
+    text-align: center;
+}
+.discount-description{
+    font-size: 15px;
+    text-align: center;
+}
+.sign-up-btn{
+    text-align: center;
+}
+.discount-flower{
+    padding-right: 200px;
+}
+span{
+    color: #E55473;
+}
+.rectanguler-shape-flower{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 100px;
+}
+.latest-deal-section{
+    margin-left: 160px;
+}
+.latest-deal-section{
+    text-align: center;
+    background-image: url('../Rectangle\ 9.png');
+    background-size: cover;
+    margin-right: 135px;
+    margin-bottom: 100px;
+}
+.deal-pic{
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.input-email{
+    padding-left: 30;
+    padding-right: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    border: 0;
+    margin-right: 10px;
+}
+.footer-part{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer-section-title{
+    color: white;
+    text-align: center;
+    
+}
+.footer-section-description{
+    color: rgba(255, 255, 255, 0.90);;
+    text-align: center;
+    font-size: 13px;
+}
+.copyright{
+    text-align: center;
+    color: white;
+   
+}
